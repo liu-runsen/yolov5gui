@@ -43,6 +43,12 @@ weights -|- yolov5n6.pt
          |- yolov5m6.pt
 ```
 
+由于github不支持上传模型，这里不提供weights文件夹中
+
+因此在clone项目后，需要手动新建weights文件夹，并将yolov5n6等模型放在该文件夹中
+
+
+
 ## 项目功能 
 
 
