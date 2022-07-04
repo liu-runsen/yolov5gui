@@ -3,7 +3,7 @@
 
 本项目基于 yolov5n6 和tkinker实现的检测模型的可视化界面
 
-项目连接； 
+项目连接； https://github.com/MaoliRUNsen/yolov5gui
 
 
 
@@ -108,7 +108,7 @@ python main.py
 
 在detect.py 中的 set_modul函数更换模型和数据训练的yaml配置文件
 
-![自定义检测](image/自定义模型.pngg)
+![自定义检测](image/自定义模型.png)
 
 
 
