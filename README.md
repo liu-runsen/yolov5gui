@@ -6,6 +6,7 @@
 项目连接； https://github.com/MaoliRUNsen/yolov5gui
 
 
+![Opencv](image/文件目录.png)<br>
 
 
 ## 环境： 
